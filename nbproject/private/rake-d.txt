@@ -1,0 +1,1 @@
+[31mCould not find gem 'mysql2 (>= 0, runtime)' in any of the gem sources listed in your Gemfile.[0m

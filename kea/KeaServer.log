@@ -1,0 +1,102 @@
+Bad address.
+server1: server1
+Accepting request from addesses: 0.0.0.0
+Starting server on port: 8090
+17 May, 2011 10:55:59 AM patch.main.KEAServer <init>
+INFO: Loaded model ./testdocs/en/sem_eval_model
+Server started 
+17 May, 2011 11:00:00 AM patch.main.KEAServer extractKeyphrases
+INFO: -- Extracting Keyphrases... 
+-- Reading instance
+-- Converting instance
+17 May, 2011 11:00:00 AM patch.main.KEAServer extractKeyphrases
+INFO: Keyphrases: []
+17 May, 2011 11:00:20 AM patch.main.KEAServer extractKeyphrases
+INFO: -- Extracting Keyphrases... 
+-- Reading instance
+-- Converting instance
+17 May, 2011 11:00:20 AM patch.main.KEAServer extractKeyphrases
+INFO: Keyphrases: []
+17 May, 2011 11:03:26 AM patch.main.KEAServer extractKeyphrases
+INFO: -- Extracting Keyphrases... 
+-- Reading instance
+-- Converting instance
+17 May, 2011 11:03:26 AM patch.main.KEAServer extractKeyphrases
+INFO: Keyphrases: [overwritten, file]
+17 May, 2011 11:04:35 AM patch.main.KEAServer extractKeyphrases
+INFO: -- Extracting Keyphrases... 
+-- Reading instance
+-- Converting instance
+17 May, 2011 11:04:35 AM patch.main.KEAServer extractKeyphrases
+INFO: Keyphrases: ['game game game',3.245696, 'game game game game',3.029316, 'game game game game game',2.812936, 'game is about the game',2.05442, game]
+Bad address.
+server1: server1
+Accepting request from addesses: 0.0.0.0
+Starting server on port: 8090
+17 May, 2011 12:17:28 PM patch.main.KEAServer <init>
+INFO: Loaded model ./testdocs/en/sem_eval_model
+Server started 
+Bad address.
+server1: server1
+Accepting request from addesses: 0.0.0.0
+Starting server on port: 8090
+17 May, 2011 1:58:18 PM patch.main.KEAServer <init>
+INFO: Loaded model ./testdocs/en/sem_eval_model
+Server started 
+Bad address.
+server1: server1
+Accepting request from addesses: 0.0.0.0
+Starting server on port: 8090
+17 May, 2011 2:32:39 PM patch.main.KEAServer <init>
+INFO: Loaded model ./testdocs/en/sem_eval_model
+Server started 
+17 May, 2011 2:51:24 PM patch.main.KEAServer extractKeyphrases
+INFO: -- Extracting Keyphrases... 
+-- Reading instance
+-- Converting instance
+17 May, 2011 2:51:24 PM patch.main.KEAServer extractKeyphrases
+INFO: Keyphrases: [game of patience, game is game, game]
+Bad address.
+server1: server1
+Accepting request from addesses: 0.0.0.0
+Starting server on port: 8090
+17 May, 2011 3:36:41 PM patch.main.KEAServer <init>
+INFO: Loaded model ./testdocs/en/sem_eval_model
+Server started 
+17 May, 2011 3:36:43 PM patch.main.KEAServer extractKeyphrases
+INFO: -- Extracting Keyphrases... 
+-- Reading instance
+-- Converting instance
+17 May, 2011 3:36:43 PM patch.main.KEAServer extractKeyphrases
+INFO: Keyphrases: [game of patience, game is game, game]
+Bad address.
+server1: server1
+Accepting request from addesses: 0.0.0.0
+Starting server on port: 8090
+Bad address.
+server1: server1
+Accepting request from addesses: 0.0.0.0
+Starting server on port: 8090
+17 May, 2011 5:39:41 PM patch.main.KEAServer <init>
+INFO: Loaded model ./testdocs/en/sem_eval_model
+Server started 
+Bad address.
+server1: server1
+Accepting request from addesses: 0.0.0.0
+Starting server on port: 8090
+17 May, 2011 6:10:18 PM patch.main.KEAServer <init>
+INFO: Loaded model ./testdocs/en/sem_eval_model
+Server started 
+Bad address.
+server1: server1
+Accepting request from addesses: 0.0.0.0
+Starting server on port: 8090
+17 May, 2011 6:10:50 PM patch.main.KEAServer <init>
+INFO: Loaded model ./testdocs/en/sem_eval_model
+Server started 
+17 May, 2011 6:13:02 PM patch.main.KEAServer extractKeyphrases
+INFO: -- Extracting Keyphrases... 
+-- Reading instance
+-- Converting instance
+17 May, 2011 6:13:02 PM patch.main.KEAServer extractKeyphrases
+INFO: Keyphrases: [game is a game, game]
